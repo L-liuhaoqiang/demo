@@ -1,16 +1,10 @@
 <template>
   <div class="home">
   <el-button type="text" @click="open">点击打开 Message Box</el-button>
-    <el-button type="text" @click="open">点击打开 Message Box</el-button>
 
-    <el-button type="text" @click="open">点击打开 Message Box</el-button>
-    <el-button type="text" @click="open">点击打开 Message Box</el-button>
-    <el-button type="text" @click="open">点击打开 Message Box</el-button>
-    <el-button type="text" @click="open">点击打开 Message Box</el-button>
-    <el-button type="text" @click="open">点击打开 Message Box</el-button>
 
   </div>
-</template>
+ </template>
 
 <script>
 // @ is an alias to /src
