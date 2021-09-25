@@ -1,14 +1,7 @@
 <template>
   <div id="app">
     <div id="nav">
-      <router-link to="/">Home</router-link> |
-<<<<<<< HEAD
-       <router-link to="/about">About1111</router-link>
-=======
-       <router-link to="/about">About1</router-link>
-      <router-link to="/about">About1</router-link>
-
->>>>>>> temp
+      <router-link to="/">1111</router-link>
     </div>
     <router-view/>
   </div>
