@@ -1,5 +1,5 @@
 <template>
   <div class="about">
-    asdasd
+    奥术大师多 奥术大师多 奥术大师多 奥术大师多
   </div>
 </template>
